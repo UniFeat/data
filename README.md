@@ -7,6 +7,7 @@
  ----
 [![GitHub stars](https://img.shields.io/github/stars/UniFeat/data)](https://github.com/UniFeat/data/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/UniFeat/data)](https://github.com/UniFeat/data/network)
+[![DOI:10.1016/j.neucom.2023.03.037](https://zenodo.org/badge/DOI/10.1016/j.neucom.2023.03.037.svg)](https://doi.org/10.1016/j.neucom.2023.03.037)
 [![GitHub license](https://img.shields.io/github/license/UniFeat/data)](https://github.com/UniFeat/data/blob/main/LICENSE)
 
 # Data in UniFeat format
